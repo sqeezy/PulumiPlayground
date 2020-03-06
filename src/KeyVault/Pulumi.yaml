@@ -1,0 +1,3 @@
+name: KeyVaultTest
+runtime: dotnet
+description: Testing attaching existing keyvault
